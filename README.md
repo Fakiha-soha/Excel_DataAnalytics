@@ -1,6 +1,6 @@
-## Excel Data Analytics Projects
+# Excel Data Analytics Projects
 
-# 📌 Project_1: 🎁 FNP Giftshop
+## 📌 Project_1: 🎁 FNP Giftshop
 
       GiftShop
       │
